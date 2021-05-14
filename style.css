@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-color: bisque;
+    font-family: 'Itim', cursive;
+}
+.line {
+    background-color: black;
+    width: 100%;
+}
